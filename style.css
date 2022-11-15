@@ -1,0 +1,72 @@
+
+#title {
+  font-style: times new roman;
+  font-size: 50px;
+  text-align: center; 
+  color: black;
+    font-style: uppercase;
+ font-style: bold;
+  
+}
+
+#black,#light roast,#medium roast, #lighty sweet,#check box{
+font-style: uppercase;
+ font-family: open sans-serif;
+ 
+}
+
+#description{
+  font-style: times new roman;
+  font-size: 30px;
+  text-align: center;
+  font-style: italics;
+  color: black;
+   font-style: bold;
+    font-style: uppercase;
+
+  
+ 
+ 
+}
+
+
+body{
+  text-align: center;
+  color: black;
+   font-style: bold;
+  font-style: uppercase;
+  
+
+}
+
+#textarea{
+  font-style: arial;
+  font-size: 30px;
+  text-align: center;
+  color: black;
+   font-style: bold;
+   font-style: uppercase;
+  
+}
+
+html{
+ background: url("https://image.freepik.com/free-vector/floating-egg-fried-with-pan-cartoon-vector-icon-illustration-food-object-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-3815.jpg")no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: uppercase;
+}
+
+
+#navbar{
+  background: #685369;
+  position: cover;
+   
+}
+
+#title{
+  color: #799496;
+  font-family: times serif;
+
+}
